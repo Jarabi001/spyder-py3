@@ -26,5 +26,9 @@ Si el número es incorrecto, mostrara el mensaje Tu número esta fuera de rango.
 
 ![Diagrama de flujo](https://github.com/user-attachments/assets/f39afa94-75a3-4d83-ac5c-79288ad6c649)
 
+## Diagrama UML de caso de uso
+
+![Diagrama UML de caso de uso](https://github.com/user-attachments/assets/5de48d40-e2e9-4dc9-95f6-7b5a8265786b)
+
 ## Autor
 - **Jair Ronquillo**
