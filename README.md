@@ -14,7 +14,7 @@
 
 ## Instalación y Ejecución
 1. Clonar o descargar este repositorio.
-2. Ejecutar el archivo Adivinando.py
+2. Ejecutar el archivo Primeros comandos del juego.py
 
 ## Ejemplo de Uso
 Piensa en un número del 1 al 5.
